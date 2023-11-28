@@ -25,9 +25,9 @@ Sou formado em Engenharia elétrica e Engenharia de controle e automação e atu
 [HackerRank](https://www.hackerrank.com/profile/hugocssouza)
 
 ### Perfomance do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoCSouza&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoCSouza&theme=transparent&bg_color=204&border_color=005500&show_icons=true&icon_color=020005&title_color=E94D5F&text_color=FFF)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HugoCSouza&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HugoCSouza&layout=compact&bg_color=204&border_color=005500&title_color=E94D5F&text_color=FFF)
 
 # EN
 ## Hugo Cezar Sales de Souza
@@ -56,6 +56,6 @@ I have two bachelor's degree: Electrial engineering and Automation and Control e
 [HackerRank](https://www.hackerrank.com/profile/hugocssouza)
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoCSouza&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoCSouza&theme=transparent&bg_color=204&border_color=005500&show_icons=true&icon_color=020005&title_color=E94D5F&text_color=FFF)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HugoCSouza&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HugoCSouza&layout=compact&bg_color=204&border_color=005500&title_color=E94D5F&text_color=FFF)
