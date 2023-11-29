@@ -25,7 +25,7 @@ Sou formado em Engenharia elétrica e Engenharia de controle e automação e atu
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Portifólios
-![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white): [HackerRank](https://www.hackerrank.com/profile/hugocssouza)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/hugocssouza)
 
 ### Perfomance do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoCSouza&theme=transparent&bg_color=204&border_color=005500&show_icons=true&icon_color=020005&title_color=E94D5F&text_color=FFF)
@@ -59,7 +59,7 @@ I have two bachelor's degree: Electrial engineering and Automation and Control e
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Portfolios
-![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white): [HackerRank](https://www.hackerrank.com/profile/hugocssouza)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/hugocssouza)
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoCSouza&theme=transparent&bg_color=204&border_color=005500&show_icons=true&icon_color=020005&title_color=E94D5F&text_color=FFF)
