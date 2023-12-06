@@ -1,6 +1,6 @@
 # PT-BR
 ## Hugo Cezar Sales de Souza
-Sou formado em Engenharia elétrica e Engenharia de controle e automação e atualmente sou mestrando em Engenharia Elétrica na área de decisão computacional. Buscando me recolocar no mercado de trabalho, com ênfase na área de dev pois, ao encontrar em contato novamente com essa área dentro do mestrado, me apaixonei!
+Sou formado em Engenharia elétrica e Engenharia de controle e automação e sou mestre em Engenharia Elétrica na área de decisão computacional. Buscando me recolocar no mercado de trabalho, com ênfase na área de dev pois, ao encontrar em contato novamente com essa área dentro do mestrado, me apaixonei!
 
 ### Minhas redes
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/hugocssouza)
@@ -34,7 +34,7 @@ Sou formado em Engenharia elétrica e Engenharia de controle e automação e atu
 
 # EN
 ## Hugo Cezar Sales de Souza
-I have two bachelor's degree: Electrial engineering and Automation and Control engineering. I'm actually having a master's degree in electrical engineering at computional decision's area. I'll wanted to restart in job-market in DevOps' area or similiar because the knowlegde acquired in master's degree were too lovely.
+I have two bachelor's degree: Electrial engineering and Automation and Control engineering. I have a master's degree in electrical engineering at computional decision's area. I'll wanted to restart in job-market in DevOps' area or similiar because the knowlegde acquired in master's degree were too lovely.
 
 ### My social medias
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/hugocssouza)
